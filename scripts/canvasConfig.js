@@ -20,3 +20,5 @@ const height = Math.min(__max_height, Math.max(screen.height - 200, 100));
 
 const BASE_FPS = 60;
 const MAX_PARTICLES = 1000;
+
+export {width, height, BASE_FPS, MAX_PARTICLES}
