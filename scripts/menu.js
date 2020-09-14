@@ -30,3 +30,10 @@ menuNames[MYSTERY] = "MYSTERY";
 menuNames[CONCRETE] = "CONCRETE";
 menuNames[BACKGROUND] = "BACKGROUND";
 menuNames[BARRIER] = "BARRIER";
+
+const menuAltColors = {};
+menuAltColors[WATER] = "rgb(0,130,255)";
+menuAltColors[BARRIER] = "rgb(255,255,255)";
+menuAltColors[BACKGROUND] = "rgb(45,45,45)";
+menuAltColors[WELL] = "rgb(158, 13, 33)";
+menuAltColors[SOIL] = "rgb(171,110,53)";
